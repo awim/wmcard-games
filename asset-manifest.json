@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wmcard-games/static/css/main.641682e2.css",
+    "main.js": "/wmcard-games/static/js/main.2f876904.js",
+    "static/js/453.f89395f9.chunk.js": "/wmcard-games/static/js/453.f89395f9.chunk.js",
+    "index.html": "/wmcard-games/index.html",
+    "main.641682e2.css.map": "/wmcard-games/static/css/main.641682e2.css.map",
+    "main.2f876904.js.map": "/wmcard-games/static/js/main.2f876904.js.map",
+    "453.f89395f9.chunk.js.map": "/wmcard-games/static/js/453.f89395f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641682e2.css",
+    "static/js/main.2f876904.js"
+  ]
+}
